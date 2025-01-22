@@ -273,11 +273,34 @@ a{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    color: #FFFFFF;
+    background-color: #05D4DF;
+    
 }
 .footer-sec1-part1{
     display: flex;
 }
+.footer-sec2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 15px;
+}
+.footer-li{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-logo-fb{
+    display: flex;
+    gap: 7px;
+}
+/* footer{
+    background-color: #01ACFD;
+    max-height: 1440px;
+} */
 
 
 
@@ -371,6 +394,10 @@ a{
         left: auto;
         top: -20px;
     
+    }
+    .footer-main-sec{
+        flex-direction: column;
+        padding-bottom: 110px;
     }
 
 }
