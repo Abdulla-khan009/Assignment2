@@ -136,7 +136,7 @@ a{
     margin-bottom: 30px;
 }
 .section2-section3{
-    background-image:linear-gradient(to top,rgba(89, 6, 242, 0.109), rgba(222, 109, 23, 0.064)),url(./assets/bg.png);
+    background-image:linear-gradient(rgba(255, 0, 0, 0.088), rgba(0, 0, 255, 0.170)),url(./assets/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: transparent;
