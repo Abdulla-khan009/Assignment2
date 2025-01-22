@@ -105,6 +105,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: transparent;
 
 }
 .section2-card1-btn1{
@@ -135,7 +136,7 @@ a{
     margin-bottom: 30px;
 }
 .section2-section3{
-    background-image:url(assets/bg.png);
+    background-image:linear-gradient(rgba(201, 183, 238, 0.151), rgba(220, 220, 230, 0.242)),url(./assets/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -171,7 +172,7 @@ a{
     margin-top: 20px;
 }
 .section3-back{
-    background: linear-gradient(to top, rgb(227, 220, 241), rgb(226, 226, 232));
+    /* background: linear-gradient(to top, rgb(227, 220, 241), rgb(226, 226, 232)); */
 }
 .section3{
     padding-top: 10px;
