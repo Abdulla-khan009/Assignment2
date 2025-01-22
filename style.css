@@ -269,6 +269,18 @@ a{
     border-radius: 10px;
     border: none;
 }
+.footer-main-sec{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+.footer-sec1-part1{
+    display: flex;
+}
+
+
+
 
 
 
