@@ -136,9 +136,10 @@ a{
     margin-bottom: 30px;
 }
 .section2-section3{
-    background-image:linear-gradient(rgba(201, 183, 238, 0.151), rgba(220, 220, 230, 0.242)),url(./assets/bg.png);
+    background-image:linear-gradient(to top,rgba(89, 6, 242, 0.109), rgba(222, 109, 23, 0.064)),url(./assets/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: transparent;
 }
 .sec2-btn{
     margin-top: 80px;
